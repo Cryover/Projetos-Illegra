@@ -1,0 +1,48 @@
+{
+    "playlists": {
+      "href": "https://api.spotify.com/v1/search?query=This+Is+Trace+Adkins&type=playlist&include_external=audio&market=ES&locale=pt-BR%2Cpt%3Bq%3D0.9%2Cen-US%3Bq%3D0.8%2Cen%3Bq%3D0.7&offset=0&limit=1",
+      "items": [
+        {
+          "collaborative": false,
+          "description": "This is Trace Adkins. Todos os maiores hits em uma só playlist.",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4eu3ao"
+          },
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO4eu3ao",
+          "id": "37i9dQZF1DZ06evO4eu3ao",
+          "images": [
+            {
+              "height": null,
+              "url": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO4eu3ao-large.jpg",
+              "width": null
+            }
+          ],
+          "name": "This Is Trace Adkins",
+          "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "Mjc3ODg0OTksMDAwMDAwMDBiYWZkNzFkODA1MjQ3ZWViOTExMzVkMzBkYzMyOTdhNg==",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO4eu3ao/tracks",
+            "total": 50
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:37i9dQZF1DZ06evO4eu3ao"
+        }
+      ],
+      "limit": 1,
+      "next": "https://api.spotify.com/v1/search?query=This+Is+Trace+Adkins&type=playlist&include_external=audio&market=ES&locale=pt-BR%2Cpt%3Bq%3D0.9%2Cen-US%3Bq%3D0.8%2Cen%3Bq%3D0.7&offset=1&limit=1",
+      "offset": 0,
+      "previous": null,
+      "total": 218
+    }
+  }

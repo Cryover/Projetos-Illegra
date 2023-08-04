@@ -1,0 +1,34 @@
+body {
+  background-color: gainsboro;
+}
+
+.formMain {
+  border: 5px solid rgb(0, 0, 0);
+  display: flex;
+  margin: auto;
+  width: 400px;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.formMain input {
+  width: 80%;
+}
+
+.formMain input[type=submit] {
+  margin-top: 20px;
+}
+
+.divTasks {
+  background-color: aliceblue;
+  border-radius: 5px;
+  padding: 5px;
+  margin: auto;
+  border: 5px solid rgb(0, 0, 0);
+  width: 50%;
+}
+
+.divTasks ul {
+  list-style: none;
+}

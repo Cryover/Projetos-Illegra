@@ -1,0 +1,50 @@
+{
+    "artists": {
+      "href": "https://api.spotify.com/v1/search?query=Trace+Adkins&type=artist&include_external=audio&market=ES&locale=pt-BR%2Cpt%3Bq%3D0.9%2Cen-US%3Bq%3D0.8%2Cen%3Bq%3D0.7&offset=0&limit=1",
+      "items": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+          },
+          "followers": {
+            "href": null,
+            "total": 2350586
+          },
+          "genres": [
+            "contemporary country",
+            "country",
+            "country road",
+            "country rock"
+          ],
+          "href": "https://api.spotify.com/v1/artists/79FMDwzZQxHgSkIYBl3ODU",
+          "id": "79FMDwzZQxHgSkIYBl3ODU",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb075290d0f64dbdd4efae7f41",
+              "width": 640
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174075290d0f64dbdd4efae7f41",
+              "width": 320
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178075290d0f64dbdd4efae7f41",
+              "width": 160
+            }
+          ],
+          "name": "Trace Adkins",
+          "popularity": 61,
+          "type": "artist",
+          "uri": "spotify:artist:79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "limit": 1,
+      "next": "https://api.spotify.com/v1/search?query=Trace+Adkins&type=artist&include_external=audio&market=ES&locale=pt-BR%2Cpt%3Bq%3D0.9%2Cen-US%3Bq%3D0.8%2Cen%3Bq%3D0.7&offset=1&limit=1",
+      "offset": 0,
+      "previous": null,
+      "total": 6
+    }
+  }

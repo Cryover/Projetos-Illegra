@@ -1,0 +1,16 @@
+{
+    "name": "exchange",
+    "version": "1.0.0",
+    "description": "NodeJS + npm/yarn",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.27.2",
+        "nodemon": "^2.0.19",
+        "restify": "^8.6.1"
+    }
+}

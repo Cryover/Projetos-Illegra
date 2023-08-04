@@ -1,0 +1,16 @@
+{
+  "name": "atividade-9",
+  "version": "1.0.0",
+  "description": "Express+Rest+requisicoes",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
